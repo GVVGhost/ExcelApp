@@ -23,7 +23,7 @@ public class FileManagerExcelApp
 
         // Read XSL file
         FileInputStream inputStream = new FileInputStream(
-                new File("D:/JavaTestingFiles/Data.xls"));
+                new File("D:/JavaFiles/Excelprobe1/Data.xls"));
 
         // Get the workbook instance for XLS file
         HSSFWorkbook workbook = new HSSFWorkbook(inputStream);
