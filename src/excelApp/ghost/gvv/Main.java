@@ -16,7 +16,7 @@ public class Main
             }
         });
 
-        //JavaApp javaApp = new JavaApp();
-        //javaApp.run();
+        JavaApp javaApp = new JavaApp();
+        javaApp.run();
     }
 }

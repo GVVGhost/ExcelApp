@@ -75,9 +75,9 @@ public class FileManagerExcelApp
             }
             count = 0;
             new CableDAO(
+                    strings[1],
                     "",
                     strings[0],
-                    "",
                     "",
                     "",
                     ""
